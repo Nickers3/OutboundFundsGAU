@@ -159,7 +159,7 @@
         <label>Fund Allocation Name</label>
         <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>Funds</pluralLabel>
+    <pluralLabel>Fund Allocations</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

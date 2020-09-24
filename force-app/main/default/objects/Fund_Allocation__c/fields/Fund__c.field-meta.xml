@@ -6,7 +6,7 @@
     <externalId>false</externalId>
     <inlineHelpText>The fund to attribute this allocation. Only funds marked as active are available for new allocations.</inlineHelpText>
     <label>Fund</label>
-    <referenceTo>Funds__c</referenceTo>
+    <referenceTo>Fund__c</referenceTo>
     <relationshipLabel>Fund Allocations</relationshipLabel>
     <relationshipName>Fund_Allocations</relationshipName>
     <required>false</required>
