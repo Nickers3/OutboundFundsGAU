@@ -5,7 +5,7 @@
     <description>Relationship to the fund being disbursed.</description>
     <externalId>false</externalId>
     <label>Fund</label>
-    <referenceTo>Funds__c</referenceTo>
+    <referenceTo>Fund__c</referenceTo>
     <relationshipLabel>Fund Expenditures</relationshipLabel>
     <relationshipName>Fund_Expenditures</relationshipName>
     <required>false</required>

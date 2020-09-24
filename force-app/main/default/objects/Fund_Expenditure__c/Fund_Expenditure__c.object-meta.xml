@@ -141,7 +141,7 @@
         <type>Default</type>
     </actionOverrides>
     <allowInChatterGroups>false</allowInChatterGroups>
-    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayoutAssignment>Fund_Expenditure</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
     <description>Record for the attribution of disbursements to specific funds. Creating these records draws revenue from the related fund. This object can be repurposed for other expendatures from Funds as well.</description>
     <enableActivities>false</enableActivities>
